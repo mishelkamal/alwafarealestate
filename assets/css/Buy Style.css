@@ -94,7 +94,7 @@ header nav ul li a {
 #hero-image {
   height: 624px;
   padding-top: 1px;
-  background: #e8eced url('assets/images/buy.jpg') no-repeat center;
+  background: #e8eced url('/images/buy.jpg') no-repeat center;
   
 }
 #hero-image h2 {
